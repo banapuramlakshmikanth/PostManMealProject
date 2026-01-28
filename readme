@@ -3,4 +3,7 @@ Open this folder in any Software suite , inteliJn, VS code.
 Then naviage to the meals react and then left click .
 you will see a option show in terminal.
 In this terminal enter npm run.
-After frontend is started n
+After frontend is started run the java code from the app.
+The ports are 8080 and 300 respectively for java and frontend
+Now go to post Man.
+
