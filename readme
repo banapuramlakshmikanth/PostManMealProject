@@ -6,4 +6,5 @@ In this terminal enter npm run.
 After frontend is started run the java code from the app.
 The ports are 8080 and 300 respectively for java and frontend
 Now go to post Man.
-
+https://www.themealdb.com/api/json/v1/1/search.php?f=q  ==> Enter this and hit GET
+the result is displayed on the screen.
